@@ -16,4 +16,5 @@ Can you identify any key customers?
 Are shipping costs consistent across providers?
 
 <STRONG>CLICK THE LINK BELOW TO INTERACT WITH DASHBOARD</STRONG>
+
 https://public.tableau.com/views/NORTHWINDTRADERS/MAINDASHBOARD?:language=en-US&:display_count=n&:origin=viz_share_link
